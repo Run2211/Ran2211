@@ -1,2 +1,1 @@
-# MediaSoft практика.
-
+# MediaSoft практика.***
